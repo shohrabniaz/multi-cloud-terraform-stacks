@@ -1,4 +1,4 @@
-# Multi Cloud IaC stacks including everything
+# multi-cloud-terraform-stacks
 
 Side-by-side Terraform examples for the three big clouds. Each is a small, runnable example — not a production module — meant to illustrate "what does the minimum sensible footprint look like on this provider?"
 
@@ -7,7 +7,7 @@ For the production AKS module, see [`aks-terraform-module`](https://github.com/s
 ## Layout
 
 ```
-Multi Cloud IaC stacks including everything/
+multi-cloud-terraform-stacks/
 ├── aws/
 │   ├── eks-with-fargate/         managed K8s + Fargate profile
 │   ├── ecs-fargate-service/      ALB + ECS Fargate, no Kubernetes
