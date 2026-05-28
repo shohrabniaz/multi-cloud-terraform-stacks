@@ -1,4 +1,4 @@
-# multi-cloud-terraform-stacks
+# multi-cloud-iac
 
 Side-by-side Terraform examples for the three big clouds. Each is a small, runnable example — not a production module — meant to illustrate "what does the minimum sensible footprint look like on this provider?"
 
