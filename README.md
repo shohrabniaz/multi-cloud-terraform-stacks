@@ -7,7 +7,7 @@ For the production AKS module, see [`aks-terraform-module`](https://github.com/s
 ## Layout
 
 ```
-multi-cloud-iac-examples/
+multi-cloud-terraform-stacks/
 ├── aws/
 │   ├── eks-with-fargate/         managed K8s + Fargate profile
 │   ├── ecs-fargate-service/      ALB + ECS Fargate, no Kubernetes
